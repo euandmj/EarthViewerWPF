@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="EarthViewerWPF.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="EarthViewerWPF" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="EarthViewerWPF.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EarthViewerWPF.exe" size="32566184">
+      <assemblyIdentity name="EarthViewerWPF" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>XgvQllrhxWCH8h1D5laWcu2CZif5XqTBy43m9ezP7HQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Resources\Databases\Countries.accdb" size="888832">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2p779NMT4O2Rn/jRbIxXJNGwQAzt0j/AZkb1Zi3NaEg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Databases\userAccounts.mdb" size="315392" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9zcd6KRCJd5huEVgQlbtFli8zflwKhLhBRxTnWFO6XQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Australia.wav" size="10442390">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>q40gM4ev78qQJwlRFIAxnNSypZ0k8/RcLU47pizN6BU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Austria.wav" size="15791694">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>zBvJ6ni08m/b1uHrrPrho4RMLJZbMCL19/EE6c3dY68=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Belgium.wav" size="11123804">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>guiSlOr1A3oQ0E8iO694En7MWwjG51JIwbh4VSfmbag=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Bulgaria.wav" size="21261390">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>z+6fnUdkNLvwVfAmEaqj81WhJTvhXbeMyuI1q83Gwvk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Canada.wav" size="13930062">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ir6VBCoIEEOJUOLKU8U1SJTCcltKT+GHKSr201EI22Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\China.wav" size="7755342">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>WGfJph8NPv191Fp9UopSupY2uMDa51vE2JFJOnTabLk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Croatia.wav" size="10478670">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+Vn8rEaGJ2R89JdPZEZfRslXPipBNisjRG/+fOrOV6c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Czech Republic.wav" size="11414094">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LyrBr8+i4VLaPLfw2ADmdW9vKAmUydjWXIuzdB7m1NY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Denmark.wav" size="14013006">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PbAxdLxE3FdDq7jTlUG2ke0zOx5iMc3CI7ieQOfcN8w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Estonia.wav" size="5603406">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MIouq+BtZI177soNGFchgCbLHp5SJgmGDLhr9Zti/g0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Finland.wav" size="8188494">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2xywGifnsacRbxNQnmirKD9/Ds6v/QWFOvDVrWESBzk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\France.wav" size="13985358">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Al35oWA7bgaTfaUt9/GV82wLVJDjvLbpA9a9G2hloiw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Germany.wav" size="13063758">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>QHRsq0Hxb+V56oXbQAj1qnbdx2Tfvd1aptrsU70OkSQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Greece.wav" size="7994958">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/BAPSruhl4rPuISl+Rydo0aqltYlwzI5sOB2Fk9Rg1o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Hungary.wav" size="16455246">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6oCzC9fEi40cMxWrMr7vT4dIn3e420Cn8PaiQLo1Dvg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Iceland.wav" size="17515086">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>vneu7yfyVvxqj88EkbIiO5LFqMD3Xz32nUTld9o9LrU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\India.wav" size="11234382">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>EK2a1uXVVa2L1t/oM/C5gqA9Qo3MGkUP+D2hGrHfefw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Ireland.wav" size="11538538">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0YaMuWz936ey2lLL6Ax+LYbScayIA38Z+u00lCRSMx8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Italy.wav" size="17418318">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ZljAlQ43T6TGBkTORbZeofeAP8wTL7sB22liUF+HnWI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Japan.wav" size="10354254">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6X7cOfXI8FugH4F0jaDCW9BtoR7YE5EG/pXX3dQUTxw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Mexico.wav" size="17948238">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>J9WlOPEuDlA3x07Az9NxRfrV6oFk/3ONTweZ9rD8n2U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Netherlands.wav" size="8584782">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yie1n7GuIVTMaZuBa1F4HdpUW7iJ9N3OE1w/mVSkLiw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Norway.wav" size="10985550">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bX4Iw+Y+levQb/IzPhgG6dIB38ipS7VlEYLd0hDrw/4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Poland.wav" size="7561806">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SqaSMOLgilhYZL6EnhJfUXjF6T3FwIl/cSKlU5CiTn4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Portugal.wav" size="13453232">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>17c8kBAOk1PrJFoaBk4yJVI0g8AxxT+vOTohX8AMn3Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Russia.wav" size="11994702">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>NUO0SvNedF6Td9IszNq/XFYu0b+mkzae2By8m2F7lNs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\South Korea.wav" size="10123854">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pAkttWy6QHMD6hbntqgVeJ0J3ek1fM9DA8VVi+OB3lY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Spain.wav" size="10999402">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pflr1YOiyMnTQJXSD+CWL28cixkjBnkQ2PGt6GqHqpE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Sweden.wav" size="15450702">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9oBKZAUlqQDP66P+G0qkxeP98PjGVNHLchX+5uQhHDQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Switzerland.wav" size="14870094">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yrjim2GAVPenC9vGkx3xC1M9OExaA8Vygn4M8E1CDME=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Turkey.wav" size="14796394">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Dp4o47L6GYQGIRDVbxj+noq/E152W0s7RrvGnB6EJUU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\Ukraine.wav" size="14036046">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cP9OuTocDqy3EOvnlqBhZQTxAKIS5wQQsBC6xTlhwLI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\United Kingdom.wav" size="7243854">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9Qmi0LRUcatGQWF9iGOt8UyC6FGS4shfh8NxqldNgFY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\Anthems\USA.wav" size="13810254">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rFqXUujrukBxjTWEI6wWRzYj8vcseWS0GU2dugHy77U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Sounds\SFX\timer_10s.wav" size="125002">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1XriMPDKTG0CK+9LViePYWqHuj6HMB8q53PtPSeY96I=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>

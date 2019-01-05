@@ -1,0 +1,86 @@
+c:\users\user\documents\visual studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\bin\Debug\EarthViewerWPF.exe
+c:\users\user\documents\visual studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\bin\Debug\EarthViewerWPF.pdb
+c:\users\user\documents\visual studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF_MarkupCompile.cache
+c:\users\user\documents\visual studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.g.resources
+c:\users\user\documents\visual studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.exe
+c:\users\user\documents\visual studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF_MarkupCompile.lref
+C:\Users\User\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\bin\Debug\Resources\Databases\Countries.accdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF_Content.g.cs
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.exe
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.pdb
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\bin\Debug\Resources\Databases\Countries.accdb
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\bin\Debug\EarthViewerWPF.exe
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\bin\Debug\EarthViewerWPF.pdb
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF_Content.g.cs
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF_MarkupCompile.cache
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF_MarkupCompile.lref
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.g.resources
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\bin\Debug\Resources\Databases\userAccounts.mdb
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\Launcher.baml
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\Launcher.g.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\bin\Debug\Resources\Databases\userAccounts.mdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\bin\Debug\EarthViewerWPF.exe.manifest
+C:\Users\User\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\bin\Debug\EarthViewerWPF.application
+C:\Users\User\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\Launcher.baml
+C:\Users\User\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\Launcher.g.cs
+C:\Users\User\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.exe.manifest
+C:\Users\User\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.application
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.exe.manifest
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\bin\Debug\EarthViewerWPF.exe.manifest
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\bin\Debug\EarthViewerWPF.application
+D:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.application
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.exe
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.pdb
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\bin\Debug\Resources\Databases\Countries.accdb
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\bin\Debug\Resources\Databases\userAccounts.mdb
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\bin\Debug\Resources\Sounds\Anthems\United Kingdom.wav
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\bin\Debug\EarthViewerWPF.exe.manifest
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\bin\Debug\EarthViewerWPF.application
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\bin\Debug\EarthViewerWPF.exe
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\bin\Debug\EarthViewerWPF.pdb
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\Launcher.baml
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\Launcher.g.cs
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\App.g.cs
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF_Content.g.cs
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF_MarkupCompile.cache
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF_MarkupCompile.lref
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\MainWindow.baml
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.g.resources
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.Properties.Resources.resources
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.csproj.GenerateResource.Cache
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.exe.manifest
+C:\Users\Euan\Desktop\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.application
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.csprojResolveAssemblyReference.cache
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\Launcher.baml
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\Launcher.g.cs
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\MainWindow.g.cs
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\App.g.cs
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF_Content.g.cs
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF_MarkupCompile.cache
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF_MarkupCompile.lref
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\MainWindow.baml
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.g.resources
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.Properties.Resources.resources
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.csproj.GenerateResource.Cache
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.csproj.CoreCompileInputs.cache
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.exe
+I:\Documents\Visual Studio 2013\Projects\EarthViewerWPF\EarthViewerWPF\obj\Debug\EarthViewerWPF.pdb
